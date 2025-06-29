@@ -85,6 +85,11 @@ We explored **15+ intermediate to professional-level SQL and DAX questions**, in
 Developed by [Vikas Sajwan]([https://github.com/Vikas-Sajwan])  
 Inspired by real-world aviation data analytics.
 
----
+Screenshot 1 :- 
+![image alt](https://github.com/Vikas-Sajwan/Air_Crashes_Analysis-SQL-Power-Bi/blob/387c4cc89a16dd67c265dde5a168c4874d5a6221/Screenshot%20-%201.png)
+
+
+Screenshot 2 :-
+![image alt]()
 
 > ✨ Built with curiosity, data, and a passion for aviation safety.
