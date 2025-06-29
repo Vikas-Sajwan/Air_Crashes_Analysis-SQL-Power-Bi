@@ -82,7 +82,7 @@ We explored **15+ intermediate to professional-level SQL and DAX questions**, in
 
 ## 🙌 Contributors
 
-Developed by [Vikas Sajwan](https://github.com/your-profile)  
+Developed by [Vikas Sajwan]([https://github.com/Vikas-Sajwan])  
 Inspired by real-world aviation data analytics.
 
 ---
