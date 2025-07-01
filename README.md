@@ -86,7 +86,7 @@ Developed by [Vikas Sajwan]([https://github.com/Vikas-Sajwan])
 Inspired by real-world aviation data analytics.
 
 Screenshot 1 :- 
-![image alt](https://github.com/Vikas-Sajwan/Air_Crashes_Analysis-SQL-Power-Bi/blob/387c4cc89a16dd67c265dde5a168c4874d5a6221/Screenshot%20-%201.png)
+![image alt](https://github.com/Vikas-Sajwan/Air_Crashes_Analysis-SQL-Power-Bi/blob/f0ad02c115e75b8851ef405697624a529f479313/Screenshot%201.png)
 
 
 Screenshot 2 :-
