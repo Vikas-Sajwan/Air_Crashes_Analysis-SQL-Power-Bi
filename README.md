@@ -90,7 +90,7 @@ Screenshot 1 :-
 
 
 Screenshot 2 :-
-![image alt](https://github.com/Vikas-Sajwan/Air_Crashes_Analysis-SQL-Power-Bi/blob/60495c7e6df812265fbe58e0885403b03df9c928/Screenshot%20-%202.png)
+![image alt](https://github.com/Vikas-Sajwan/Air_Crashes_Analysis-SQL-Power-Bi/blob/033ac919a6e94f300ede36ecd1d1ccacf1efc61b/Screenshot%202.png)
 
 
 > ✨ Built with curiosity, data, and a passion for aviation safety.
