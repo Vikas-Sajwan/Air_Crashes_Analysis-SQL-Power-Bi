@@ -1,4 +1,3 @@
-# Air_Crashes_Analysis-SQL-Power-Bi
 # ✈️ Aircraft Incidents Analysis using - SQL-Power-Bi
 
 This repository contains a **SQl and Power BI dashboard project** built to analyze global aircraft incidents using real-world structured data imported from a SQL Server database.
